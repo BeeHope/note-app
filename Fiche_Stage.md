@@ -1,4 +1,4 @@
-# 📋 Fiche de candidature – Stage
+**Nom :** Asma Daoui
 
 ## 📅 Période de stage
 01/07/2026 – 31/08/2026
@@ -48,7 +48,7 @@ Scrum, Waterfall, Agile
 Python, Java, JavaScript, SQL, PHP, Android, Unity, Kotlin, CI/CD
 
 **☁️ Infrastructure & Virtualisation**  
-Docker,VMware vSphere (PyVmomi), Packet Tracer, Git
+Docker, VMware vSphere (PyVmomi), Packet Tracer, Git
 
 **🗄️ Bases de données**  
 Oracle (création et configuration)
@@ -68,5 +68,8 @@ Ingénierie en Cybersécurité
 
 ## ⏰ Date limite de signature
 01/07/2026
+
+---
+
 ## 📌 Remarque
 Prêt et ouvert pour un stage dans tous les domaines de la cybersécurité, avec une forte motivation pour l'apprentissage de nouvelles technologies émergentes.
