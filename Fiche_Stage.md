@@ -13,7 +13,7 @@ Application de suivi de la consommation d'eau avec système de notifications per
 - Analyse d'attaques réseaux avec Aircrack-ng et Machine Learning
 - Développement en Python de mécanismes de détection et de défense basés sur l'IA pour la sécurisation du trafic réseau
 
-### 📊 Application Web – Prédiction du prix de téléphones par Machine Learning
+### 📊 Application Web – Modèle de Machine Learning pour la prédiction du prix des téléphones
 - Modèle de prédiction basé sur les caractéristiques techniques (marque, modèle, mémoire, processeur)
 - Interface web interactive pour la saisie de caractéristiques et l'affichage des prédictions
 - Entraînement, validation et optimisation du modèle en Python
